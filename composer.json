@@ -1,5 +1,5 @@
 {
-    "name": "99designs/http-signatures-guzzlehttp",
+    "name": "madassdev/99guzzle",
     "description": "Sign and verify HTTP messages with Guzzle 6",
     "homepage": "https://github.com/99designs/http-signatures-guzzlehttp",
     "keywords": ["http", "https", "signing", "signed", "signature", "hmac", "guzzle 6"],
